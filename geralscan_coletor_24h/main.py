@@ -1,1 +1,0 @@
-# Coletor automático para enviar número a cada 35s para /collect
