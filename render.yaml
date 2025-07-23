@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: geralscan-coletor
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python main.py
-    autoDeploy: false
